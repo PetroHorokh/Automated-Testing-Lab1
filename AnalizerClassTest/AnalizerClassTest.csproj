@@ -55,6 +55,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
+    <None Include="Автоматизовані системи тестування програмного забезпечення. Лаб. №1.docx" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\AnalizerClassLibrary\AnalizerClassLibrary.csproj">

@@ -13,8 +13,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnalizerClassLibrary", "Ana
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnalizerClassTest", "AnalizerClassTest\AnalizerClassTest.csproj", "{7867247B-2005-4D19-829A-E2505D20C487}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "report", "report", "{7BE333EC-F9DD-40E1-8C7F-6C83391E5C37}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
